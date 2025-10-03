@@ -1,0 +1,9 @@
+n1 = '17'
+n2 = '111010'
+n3 = '1C2'
+n = int(n1,8)
+print('Octal 17 = ',n)
+n = int(n2,2)
+print('Decimal 111010 = ',n)
+n = int(n3,16)
+print('Hexadecimal 1C2 = ',n)
